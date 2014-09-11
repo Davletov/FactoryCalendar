@@ -1,0 +1,26 @@
+        #cal-legend { max-width: 500px; margin: 0 auto;}
+        #cal-legend ul {
+        	list-style:none;
+        }
+        #cal-legend ul li {
+        	margin:0;
+        	padding:20px;
+        	float:left;
+        }
+        #cal-legend ul li span {
+        	display:block;
+        	height:16px;
+        	width:16px;
+        	margin-right:4px;
+        	float:left;
+        	border-radius:4px;
+        }
+        #calendar {
+        	max-width: 900px;
+        	margin: 0 auto;
+        }
+        #calendar a:hover {color:#fff !important;}
+
+        .fc-event-inner {padding:3px;}
+        .event-dayoff {background:#FF4500;border-color:#FF4500;}
+        .event-holiday {background:#3a87ad;border-color:#3a87ad;}
